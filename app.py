@@ -52,3 +52,5 @@ def deleteProduct(product_name):
 
 if __name__ == '__main__':
     app.run(debug=True, port=4000)
+    
+    module = app: app
